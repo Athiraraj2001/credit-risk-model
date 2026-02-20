@@ -131,7 +131,7 @@ Although XGBoost achieved slightly higher AUC, Logistic Regression was selected 
 
 # 📊 ROC Curve
 
-![ROC Curve](images/roc_curve.png)
+![ROC Curve](ROC-AUC.png)
 
 ### Insight
 All models show excellent discriminatory power (AUC > 0.97), meaning the model effectively distinguishes defaulters from non-defaulters.
@@ -161,7 +161,7 @@ Top deciles contain a significantly higher concentration of defaulters, demonstr
 
 # 📊 Feature Importance (Information Value Ranking)
 
-![Feature Importance](images/iv_feature_importance.png)
+![Feature Importance](Feature importance.png)
 
 ### Insight
 Top IV features align with domain expectations and significantly contribute to default prediction.
