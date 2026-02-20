@@ -7,7 +7,7 @@
 ## 🚀 Live Application
 
 🔗 **Try the App Here:**  
-[![Live App](https://img.shields.io/badge/Live-App-brightgreen)](https://ml-project--credit-risk-modem.streamlit.app/))
+[![Live App](https://img.shields.io/badge/Live-App-brightgreen)](https://ml-project--credit-risk-modem.streamlit.app/)
 
 ---
 
