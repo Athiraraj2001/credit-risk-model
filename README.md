@@ -161,7 +161,7 @@ Top deciles contain a significantly higher concentration of defaulters, demonstr
 
 # 📊 Feature Importance (Information Value Ranking)
 
-![Feature Importance](Feature importance.png)
+![Feature Importance](Feature_importance.png)
 
 ### Insight
 Top IV features align with domain expectations and significantly contribute to default prediction.
@@ -197,9 +197,6 @@ Instead of binary approval decisions, the Risk Unit can now:
 - Matplotlib  
 - Seaborn  
 
-
-Your Name  
-Credit Risk Modeling | Machine Learning | Risk Analytics
 
 
 
