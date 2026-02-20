@@ -4,6 +4,13 @@
 
 ---
 
+## 🚀 Live Application
+
+🔗 **Try the App Here:**  
+[![Live App](https://img.shields.io/badge/Live-App-brightgreen)](http://localhost:8501/)
+
+---
+
 # 🏦 Objective
 
 To build a machine learning model that a Risk Unit can use to:
